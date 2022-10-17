@@ -1,4 +1,5 @@
 export default {
+  base: '/',
   title: "Darwin AG Dokumentation",
   description: "Just playing around.",
   themeConfig: {
