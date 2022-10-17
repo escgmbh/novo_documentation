@@ -12,3 +12,5 @@ pnpm-global
 TODOs.md
 .temp
 *.tgz
+yarn.lock
+yarn-error.log
